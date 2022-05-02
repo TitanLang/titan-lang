@@ -1,0 +1,60 @@
+.nav_bar {
+	background-color: #151515;
+	color: #fff;
+	padding: 10px;
+	margin: 10px;
+}
+
+.head {
+	padding: 10px;
+	height: 400px;
+	color: #151515;
+	background-image: linear-gradient(#ffb327, #efaf26);
+}
+
+.main_btn {
+	background-color: #FF802B;
+	font-size: 15px;
+	border: none;
+	color: #151515;
+	padding: 12px;
+	border-radius: 5px;
+	transition-duration: 0.4s;
+}
+
+.main_btn:hover {
+	background-color: #FFA970;
+}
+
+
+.sub_btn {
+	background-color: #aa000000;
+	border: 2px solid #151515;
+	font-size: 15px;
+	color: #151515;
+	padding: 10px;
+	border-radius: 5px;
+	transition-duration: 0.4s;
+}
+
+.sub_btn:hover {
+	color: #ffb327;
+	background-color: #151515;
+}
+
+
+body {
+	color: #000;
+	background-color: #fff;
+	font-family: "Segoe UI";
+}
+
+a {
+	color: #fff;
+	text-decoration-style: unset;
+}
+
+
+.blink {
+  animation: blink 1s infinite;
+}
